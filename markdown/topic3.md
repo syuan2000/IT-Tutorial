@@ -12,12 +12,14 @@ Machine learning is the art of study of algorithms that learn from examples and 
 Machine learning is based on the idea that there exist some patterns in the data that were identified and used for future predictions.
 
 The difference from hardcoding rules is that the machine learns on its own to find such rules.
----
+
+
 **Deep learning**<br>
 Deep learning is a sub-field of machine learning. Deep learning does not mean the machine learns more in-depth knowledge; it means the machine uses different layers to learn from the data. The depth of the model is represented by the number of layers in the model. For instance, Google LeNet model for image recognition counts 22 layers.
 
 In deep learning, the learning phase is done through a neural network. A neural network is an architecture where the layers are stacked on top of each other.
----
+
+
 **AI vs. Machine Learning**<br>
 Most of our smartphone, daily device or even the internet uses Artificial intelligence. Very often, AI and machine learning are used interchangeably by big companies that want to announce their latest innovation. However, Machine learning and AI are different in some ways.
 
