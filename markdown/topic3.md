@@ -5,7 +5,7 @@ Artificial intelligence can be divided into three subfields:
 2. Machine learning
 3. Deep learning
 
-
+-
 **Machine Learning**<br>
 Machine learning is the art of study of algorithms that learn from examples and experiences.
 
